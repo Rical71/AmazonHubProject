@@ -5,7 +5,7 @@ import time
 from time import sleep
 from tqdm import tqdm
 
-API_KEY = "AIzaSyCZHaDi9IcB3oEQaJ87KsUMs-139Sm_MZE"  # ✅ Replace with your API key
+API_KEY = "YOUR GOOGLE API KEY"  # ✅ Replace with your API key
 
 keywords = [
     "coffee shop", "shoe repair", "boutique", "local shop",
