@@ -1,0 +1,24 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore VS Code or PyCharm config files
+.idea/
+.vscode/
+*.iml
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore CSV logs (optional if you don’t want to upload logs)
+# Sent_Email_Log.csv
